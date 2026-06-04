@@ -1,5 +1,13 @@
 # 🔒 SnapLock — Instant File & Folder Encryption
 
+![Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-blue?style=for-the-badge)
+
+
+## 🚀 Live Demo
+
+**[View Demo](https://mayank-dev-15.github.io/snaplock-demo)** — hosted on GitHub Pages
+
+
 **One-command AES-256 encryption for any file or folder. Zero dependencies.**
 
 ```bash
